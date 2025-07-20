@@ -31,7 +31,7 @@ Your all-in-one control hub with key KPIs, interactive visuals, and navigation t
 💡 Understand where the money’s going—and where it should be going.  
 📈 Spot high-margin products and regions with profit potential.
 
-🎥 [Watch Finance View](https://github.com/user-attachments/assets/b3420b40-3232-46de-9d5d-bab0ef2d93e1)
+https://github.com/user-attachments/assets/b3420b40-3232-46de-9d5d-bab0ef2d93e1
 
 ---
 
@@ -68,3 +68,58 @@ Your all-in-one control hub with key KPIs, interactive visuals, and navigation t
 🔗 Keep the pipeline flowing and customers satisfied.
 
 🎥 [Watch Supply Chain View](https://github.com/user-attachments/assets/bc1043e7-9c13-4f3c-9514-ccf6b642a838)
+
+## 📍 Key Learnings
+
+1. 🛠️ **Created Calculated Columns and DAX Measures** to generate deeper data insights through custom calculations.  
+2. 🔗 **Connected Data from MySQL and Excel** to build a comprehensive and unified data source.  
+3. 📖 **Used Bookmarks** for easy switching between report visuals, improving storytelling.  
+4. 📚 **Implemented Page Navigation with Buttons** to enhance user experience and seamless report navigation.  
+5. 📍 **Added Tooltips** to provide context within visuals while saving dashboard space.  
+6. 🎨 **Enhanced Visualizations via Conditional Formatting** to highlight important data points with colors.  
+7. ✨ **Designed Dynamic Titles** that update automatically based on applied filters for clarity.  
+8. 🧑‍💻 **Improved Stakeholder Communication and Data Storytelling** skills.  
+9. 🔄 **Set Up Auto-Refresh Using Data Gateway** for real-time data updates.
+
+---
+
+## 🛠️ Tools I Used
+
+- 📊 **Power BI Desktop:** Built interactive and insightful dashboards.  
+- 🌐 **Power BI Service:** Published reports and shared with stakeholders.  
+- 🔄 **Power Query:** Transformed and cleansed data for analysis.  
+- 📈 **DAX Language:** Developed complex calculations to improve insights.  
+- ⚙️ **DAX Studio:** Optimized DAX performance for efficient reporting.  
+- 📋 **Project Charter:** Defined clear project goals and maintained alignment.  
+- 🔍 **Excel:** Used by stakeholders for reference and UAT report creation.  
+- 🤝 **ChatGPT:** Assisted in understanding complex DAX formulas.
+
+---
+
+## 📝 Important Business Terms I Learned
+
+- **Net Sales:** Sales revenue after returns and discounts.  
+- **Gross Price:** Price before any discounts are applied.  
+- **Pre-Invoice Deduction:** Discounts applied before invoicing.  
+- **Post-Invoice Deduction:** Discounts applied after invoicing.  
+- **Net Invoice Sales:** Sales amount after all invoice deductions.  
+- **Cost of Goods Sold (COGS):** The cost incurred to produce the product.  
+- **Gross Margin:** Sales revenue minus COGS.  
+- **Gross Margin %:** Percentage profit on sales.  
+- **Net Profit:** Earnings after all expenses and taxes.  
+- **Net Profit %:** Net profit as a percentage of sales.  
+- **Market Share %:** Company sales as a percentage of total market sales.  
+- **Forecast Accuracy:** How close sales forecasts are to actual results.  
+- **Net Error:** The difference between actual and forecasted sales.  
+- **Absolute Error:** The absolute value of the difference between actual and forecasted figures.  
+- **Year-to-Date (YTD):** Performance from the start of the year to date.  
+- **Year-to-Go (YTG):** Projected performance for the rest of the year.  
+- **Benchmark:** A standard to compare performance against.  
+- **Customer-Consumer:** Customer purchases the product; consumer uses it.  
+- **Retailer:** Business selling products directly to consumers.  
+- **Direct Selling:** Selling products directly to customers without middlemen.  
+- **Distributor:** Entity supplying goods to retailers.  
+- **Brick-and-Mortar:** Physical retail stores (non-online).  
+- **Fiscal Year:** A 12-month accounting period.
+
+
