@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/b3420b40-3232-46de-9d5d-bab0ef2d93e1
 📢 Track conversion funnels and customer acquisition cost (CAC).  
 🚀 Identify top-performing SKUs and underperformers to adjust strategies fast.
 
-🎥 [Watch Marketing View](https://github.com/user-attachments/assets/0737984d-ac68-45c4-8c47-369abdf04453)
+(https://github.com/user-attachments/assets/0737984d-ac68-45c4-8c47-369abdf04453)
 
 ---
 
@@ -49,7 +49,8 @@ https://github.com/user-attachments/assets/b3420b40-3232-46de-9d5d-bab0ef2d93e1
 📍 Enables leadership to take fast, data-backed decisions.  
 📅 Track YoY, MoM, and QoQ performance for strategic alignment.
 
-🎥 [Watch Executive View](https://github.com/user-attachments/assets/a3662c75-0cc3-4a80-8426-4d3009ebcf79)
+(https://github.com/user-attachments/assets/0737984d-ac68-45c4-8c47-369abdf04453)
+(https://github.com/user-attachments/assets/a3662c75-0cc3-4a80-8426-4d3009ebcf79)
 
 ---
 
@@ -67,7 +68,8 @@ https://github.com/user-attachments/assets/b3420b40-3232-46de-9d5d-bab0ef2d93e1
 ⏱️ Analyze lead times, delivery delays, and fulfillment rates.  
 🔗 Keep the pipeline flowing and customers satisfied.
 
-🎥 [Watch Supply Chain View](https://github.com/user-attachments/assets/bc1043e7-9c13-4f3c-9514-ccf6b642a838)
+https://github.com/user-attachments/assets/b3420b40-3232-46de-9d5d-bab0ef2d93e1
+(https://github.com/user-attachments/assets/bc1043e7-9c13-4f3c-9514-ccf6b642a838)
 
 ## 📍 Key Learnings
 
