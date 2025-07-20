@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/bc1043e7-9c13-4f3c-9514-ccf6b642a838
 📢 Track conversion funnels and customer acquisition cost (CAC).  
 🚀 Identify top-performing SKUs and underperformers to adjust strategies fast.
 
-https://github.com/user-attachments/assets/0737984d-ac68-45c4-8c47-369abdf04453
+https://github.com/user-attachments/assets/d6e08cf9-f102-4bd0-af92-5ab487264a17
 
 ---
 
