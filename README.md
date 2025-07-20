@@ -16,5 +16,6 @@ Ouch Moment: Big losses hit in Latin America lately.
 Game Plan: Time to switch to slick data tools for sharp decisions and untapped wins! ✨
 
 Home Page:
-![]("Home.png")
+![Home Page](Home.png)
+
 
