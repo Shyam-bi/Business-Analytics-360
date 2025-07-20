@@ -15,7 +15,11 @@ Hurdles: Data moves slow 🐢 and feels clunky, making insights tough to grab.
 Ouch Moment: Big losses hit in Latin America lately.
 Game Plan: Time to switch to slick data tools for sharp decisions and untapped wins! ✨
 
+Data Model:
+
+
 Home Page:
 ![Home Page](Home.png)
+
 
 
