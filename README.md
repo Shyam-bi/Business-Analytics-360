@@ -23,7 +23,7 @@ Game Plan: Time to switch to slick data tools for sharp decisions and untapped w
 
 ---
 🏠 **Home Page**  
-Your all-in-one control hub with key KPIs, interactive visuals, and navigation to different views.
+Your all-in-one control hub with key KPIs, interactive visuals, and navigation to different views.  
 ![Home Page](Home.png)
 
 ## 💼 FINANCE VIEW  
@@ -31,7 +31,7 @@ Your all-in-one control hub with key KPIs, interactive visuals, and navigation t
 💡 Understand where the money’s going—and where it should be going.  
 📈 Spot high-margin products and regions with profit potential.
 
-🎥 [Watch Finance View](Finance%20View.mp4)
+🎥 [Watch Finance View](https://github.com/user-attachments/assets/b3420b40-3232-46de-9d5d-bab0ef2d93e1)
 
 ---
 
@@ -40,7 +40,7 @@ Your all-in-one control hub with key KPIs, interactive visuals, and navigation t
 📢 Track conversion funnels and customer acquisition cost (CAC).  
 🚀 Identify top-performing SKUs and underperformers to adjust strategies fast.
 
-🎥 [Watch Marketing View](Marketing%20View.mp4)
+🎥 [Watch Marketing View](https://github.com/user-attachments/assets/0737984d-ac68-45c4-8c47-369abdf04453)
 
 ---
 
@@ -49,7 +49,7 @@ Your all-in-one control hub with key KPIs, interactive visuals, and navigation t
 📍 Enables leadership to take fast, data-backed decisions.  
 📅 Track YoY, MoM, and QoQ performance for strategic alignment.
 
-🎥 [Watch Executive View](Executive%20view.mp4)
+🎥 [Watch Executive View](https://github.com/user-attachments/assets/a3662c75-0cc3-4a80-8426-4d3009ebcf79)
 
 ---
 
@@ -58,7 +58,7 @@ Your all-in-one control hub with key KPIs, interactive visuals, and navigation t
 🌍 Visualize global and regional trends in sales growth.  
 🔍 Drill down into anomalies and uncover upsell opportunities.
 
-🎥 [Watch Sales View](Sales%20View.mp4)
+🎥 [Watch Sales View](https://github.com/user-attachments/assets/b2fa7f8f-deee-4142-844e-dc321538265e)
 
 ---
 
@@ -67,6 +67,4 @@ Your all-in-one control hub with key KPIs, interactive visuals, and navigation t
 ⏱️ Analyze lead times, delivery delays, and fulfillment rates.  
 🔗 Keep the pipeline flowing and customers satisfied.
 
-🎥 [Watch Supply Chain View](Supply%20Chain%20View.mp4)
-
-
+🎥 [Watch Supply Chain View](https://github.com/user-attachments/assets/bc1043e7-9c13-4f3c-9514-ccf6b642a838)
